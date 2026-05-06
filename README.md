@@ -103,5 +103,3 @@ The tests cover examples such as:
 This project was created as a Java OOP and unit testing practice task.
 
 The main goal is to demonstrate class design, object interaction, basic domain modelling, and test-based verification of program behavior.
-
-This repository was imported from my previous GitHub account as part of organizing my projects in one place.
